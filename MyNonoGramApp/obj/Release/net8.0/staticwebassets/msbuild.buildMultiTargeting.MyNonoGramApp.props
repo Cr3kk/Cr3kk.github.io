@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MyNonoGramApp.props" />
+</Project>
